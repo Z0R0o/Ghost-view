@@ -82,13 +82,10 @@ python main.py
 
 ---
 
-## 📸 Ideal For
+## 📸 Preview
 
-- 🐛 Bug Reporting with annotation  
-- 🎥 Recording demos or walkthroughs  
-- 🧪 Showcasing features for clients  
-- 💼 Freelance delivery & dev logs  
-- 🧵 Discord-first productivity pipelines  
+ ![clip](https://github.com/user-attachments/assets/23ec3ad6-cdd5-4ddd-b732-767efe26e36f)
+
 
 ---
 
