@@ -16,7 +16,7 @@
     <img alt="Connect on Discord" src="https://img.shields.io/badge/Contact%20Me-Discord-5865F2?logo=discord&style=for-the-badge">
   </a>
   &nbsp;
-  <a href="https://github.com/YOUR_GITHUB/GhostView-Pro">
+  <a href="[https://github.com/YOUR_GITHUB/GhostView-Pro](https://github.com/Z0R0o/Ghost-view)">
     <img alt="Star on GitHub" src="https://img.shields.io/github/stars/YOUR_GITHUB/GhostView-Pro?style=for-the-badge">
   </a>
 </p>
