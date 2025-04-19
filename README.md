@@ -113,7 +113,7 @@ python main.py
 
 ## 🙋‍♂️ Author
 
-**Zoro** — Discord Dev | Bot Maker | Freelance Toolsmith  
+**Zoro** — Discord Dev | Bot Maker | Toolsmith  |  Automation | Much More
 📬 [Discord Profile](https://discord.com/users/1357257822571855986)
 
 ---
