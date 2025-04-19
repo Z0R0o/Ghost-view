@@ -15,10 +15,6 @@
   <a href="https://discord.com/users/1357257822571855986">
     <img alt="Connect on Discord" src="https://img.shields.io/badge/Contact%20Me-Discord-5865F2?logo=discord&style=for-the-badge">
   </a>
-  &nbsp;
-  <a href="https://github.com/Z0R0o/Ghost-view">
-    <img alt="Star on GitHub" src="https://img.shields.io/github/stars/YOUR_GITHUB/GhostView-Pro?style=for-the-badge">
-  </a>
 </p>
 
 ---
