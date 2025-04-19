@@ -10,7 +10,7 @@ Got you Zoro — time to polish this up to **next-level elegance**. Here's a **�
 
 ### ✅ Fancy & Minimal `README.md` v2 – For Showcase Use
 
-```markdown
+markdown
 <h1 align="center">👁️ GhostView Pro 2.5</h1>
 <p align="center">
   <i>“Power in simplicity. Fancy in design.”</i><br>
