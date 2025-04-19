@@ -1,14 +1,3 @@
-Hell yeah, let’s crank this up. Here's a **fancy, catchy, and beautiful** `README.md` made **portfolio-worthy** with:
-
-- Buttons for Discord and Star on GitHub  
-- Badges for tech & build status  
-- Highlighted callouts  
-- Visual-friendly layout  
-- No cringe — just sleek
-
----
-
-```markdown
 <h1 align="center">👁️ GhostView Pro 2.5</h1>
 <p align="center">
   <i>“Power in simplicity. Fancy in design.”</i><br>
@@ -135,17 +124,3 @@ If this project helped you or impressed your client:
 **Give it a star ⭐ and share the vibe.**
 
 ---
-
-```
-
----
-
-### ✅ NEXT STEP:
-
-Replace:
-```markdown
-https://github.com/YOUR_GITHUB/GhostView-Pro
-```
-with your real GitHub repo link to make the buttons work.
-
-Want me to generate a **preview GIF**, add **project screenshots**, or prep this for your GitHub release page? Just say the word.
