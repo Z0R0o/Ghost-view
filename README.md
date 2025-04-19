@@ -1,5 +1,3 @@
-
-```markdown
 # 👁️ GhostView Pro 2.5
 
 **GhostView Pro** is a sleek, powerful, and cozy screen capture + recording tool built with Python.  
@@ -108,6 +106,5 @@ If this helped you or looks 🔥 in your portfolio, drop a **star** on GitHub.
 It motivates me to keep creating awesome open-source tools!
 
 ---
-```
 
-Let me know if you want a matching preview GIF, GitHub badges, or anything extra to spice up your project.
+Let me know if you want GitHub badges, preview GIFs, or to prep the GitHub repo layout too.
